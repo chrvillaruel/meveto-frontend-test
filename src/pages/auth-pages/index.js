@@ -1,7 +1,6 @@
 import React from 'react';
 import { Route, Navigate, Routes } from 'react-router-dom';
 import CustomersPage from './customers-page'
-import CustomersSinglePage from './customers-page'
 import SingleCustomersPage from "./customer-single-page";
 const AuthPages = () => {
     return (
